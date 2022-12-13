@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --Home-bg-color:#f5f5f5;
+  --Home-header-bg-color: #ffffff
+}
+
