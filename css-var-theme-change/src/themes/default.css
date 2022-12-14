@@ -1,10 +1,15 @@
 * {
   margin: 0;
   padding: 0;
+  transition: all 0.5s ease;
 }
 
 :root {
-  --Home-bg-color:#f5f5f5;
-  --Home-header-bg-color: #ffffff
+  --Home-bg-color: #f5f5f5;
+  --Home-header-bg-color: #ffffff;
+  --Home-header-changeButton-fontColor: #000;
+  --Home-header-changeButton-fontColor-hover: #fff;
+  --Home-header-changeButton-borderColor: #1b5698;
+  --Home-header-changeButton-borderColor-hover: #1b5698;
+  --Home-header-changeButton-bgColor-hover: #1b5698;
 }
-

@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --Home-bg-color:#000;
+  --Home-header-bg-color: #716f6f3f;
+  --Home-header-changeButton-fontColor: #fff;
+  --Home-header-changeButton-fontColor-hover: #fff;
+  --Home-header-changeButton-borderColor: #fff;
+  --Home-header-changeButton-borderColor-hover: #fff;
+  --Home-header-changeButton-bgColor-hover: #000;
+}
+
