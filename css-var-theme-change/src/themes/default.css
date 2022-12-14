@@ -5,11 +5,16 @@
 }
 
 :root {
-  --Home-bg-color: #f5f5f5;
+  --Home-bg-color: var(--white);
   --Home-header-bg-color: #ffffff;
-  --Home-header-changeButton-fontColor: #000;
+  --Home-header-changeButton-fontColor: var(--black);
   --Home-header-changeButton-fontColor-hover: #fff;
-  --Home-header-changeButton-borderColor: #1b5698;
-  --Home-header-changeButton-borderColor-hover: #1b5698;
-  --Home-header-changeButton-bgColor-hover: #1b5698;
+  --Home-header-changeButton-borderColor: var(--blue-drak);
+  --Home-header-changeButton-borderColor-hover: var(--blue-drak);
+  --Home-header-changeButton-bgColor-hover: var(--blue-drak);
+  --black: #000;
+  --white: #fff;
+  --blue-drak: #1b5698;
 }
+
+
