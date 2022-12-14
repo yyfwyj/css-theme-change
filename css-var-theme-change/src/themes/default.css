@@ -6,7 +6,7 @@
 
 :root {
   --Home-bg-color: var(--white);
-  --Home-header-bg-color: #ffffff;
+  --Home-header-bg-color: var(--gray);
   --Home-header-changeButton-fontColor: var(--black);
   --Home-header-changeButton-fontColor-hover: #fff;
   --Home-header-changeButton-borderColor: var(--blue-drak);
@@ -15,6 +15,7 @@
   --black: #000;
   --white: #fff;
   --blue-drak: #1b5698;
+  --gray: #a29e9e;
 }
 
 
