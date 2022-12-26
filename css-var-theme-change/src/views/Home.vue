@@ -18,7 +18,6 @@ let theme = "drak";
 const changeThemes = ($theme = "default") => {
   theme = $theme === "default" ? "drak" : "default";
   const link = createLink();
-  console.log(theme, link);
   link.href = `src/themes/${$theme}.css`;
   return $theme;
 };
